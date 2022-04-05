@@ -1,0 +1,13 @@
+C:\CodingDojo\c#\assigments\Puzzles\bin\Debug\netcoreapp3.1\Puzzles.exe
+C:\CodingDojo\c#\assigments\Puzzles\bin\Debug\netcoreapp3.1\Puzzles.deps.json
+C:\CodingDojo\c#\assigments\Puzzles\bin\Debug\netcoreapp3.1\Puzzles.runtimeconfig.json
+C:\CodingDojo\c#\assigments\Puzzles\bin\Debug\netcoreapp3.1\Puzzles.runtimeconfig.dev.json
+C:\CodingDojo\c#\assigments\Puzzles\bin\Debug\netcoreapp3.1\Puzzles.dll
+C:\CodingDojo\c#\assigments\Puzzles\bin\Debug\netcoreapp3.1\Puzzles.pdb
+C:\CodingDojo\c#\assigments\Puzzles\obj\Debug\netcoreapp3.1\Puzzles.csprojAssemblyReference.cache
+C:\CodingDojo\c#\assigments\Puzzles\obj\Debug\netcoreapp3.1\Puzzles.AssemblyInfoInputs.cache
+C:\CodingDojo\c#\assigments\Puzzles\obj\Debug\netcoreapp3.1\Puzzles.AssemblyInfo.cs
+C:\CodingDojo\c#\assigments\Puzzles\obj\Debug\netcoreapp3.1\Puzzles.csproj.CoreCompileInputs.cache
+C:\CodingDojo\c#\assigments\Puzzles\obj\Debug\netcoreapp3.1\Puzzles.dll
+C:\CodingDojo\c#\assigments\Puzzles\obj\Debug\netcoreapp3.1\Puzzles.pdb
+C:\CodingDojo\c#\assigments\Puzzles\obj\Debug\netcoreapp3.1\Puzzles.genruntimeconfig.cache
